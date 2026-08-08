@@ -1,0 +1,1136 @@
+Build a complete, modern, responsive website for:
+
+McCoy's Doors & Windows (Pty) Ltd
+
+Business Type:
+Premium custom door and window manufacturer
+
+Location:
+Jura Shopping Centre, Shop 12
+4753 Malibongwe Drive, Off Boundary Road
+Kya Sand, Johannesburg, 2169
+South Africa
+
+Phone:
++27 72 221 4567
+
+Established:
+1995
+
+Core Services:
+- Custom Timber Doors
+- Custom Aluminium Doors
+- Timber Windows
+- Aluminium Windows
+- Frameless Doors
+- Folding Doors
+- Sliding Doors
+- Pivot Doors
+- Barn Doors
+- Garage Doors
+- Glass Solutions
+- Glass Balustrading
+- Louvres & Shutters
+- Door Hardware
+- Door & Window Repairs
+
+==================================================
+1. DESIGN DIRECTION
+==================================================
+
+IMPORTANT:
+
+The previous website concept was too dark, heavy and visually loud.
+
+DO NOT create a dark luxury website.
+
+The client specifically wants:
+
+- Light theme
+- Minimalist design
+- Elegant
+- Warm
+- Clean
+- Sophisticated
+- Architectural
+- Premium but approachable
+- Lots of whitespace
+- Sand and maroon colour palette
+
+The website should feel like a premium South African architectural doors and windows company.
+
+Think:
+
+"Modern architectural showroom"
+
+NOT:
+
+"Luxury nightclub"
+"Dark luxury car website"
+"Heavy corporate website"
+"Generic construction company website"
+
+The design should feel calm, refined and timeless.
+
+==================================================
+2. COLOUR SYSTEM
+==================================================
+
+PRIMARY BRAND COLOUR:
+
+Maroon:
+#582A47
+
+This is the key brand colour.
+
+Use #582A47 for:
+
+- Primary buttons
+- Navigation accents
+- Headings in selected sections
+- Small labels
+- Icons
+- Links
+- Borders/details
+- Hover states
+- Important visual accents
+
+DO NOT use maroon as a full-page background.
+
+The maroon should be used carefully and elegantly.
+
+--------------------------------------------------
+
+SAND COLOUR:
+
+Use a warm, natural sand tone as the secondary brand colour.
+
+Suggested:
+
+#E8DCCB
+
+Additional warm neutral:
+
+#F5F0E8
+
+Use these for:
+
+- Section backgrounds
+- Cards
+- CTA areas
+- Subtle highlights
+- Background blocks
+- Decorative areas
+
+--------------------------------------------------
+
+MAIN BACKGROUND:
+
+#FCFAF7
+
+The website should primarily use a very light warm/off-white background rather than pure white everywhere.
+
+Additional colours:
+
+Dark text:
+#292526
+
+Secondary text:
+#6F6865
+
+White:
+#FFFFFF
+
+Very light border:
+#E6DED5
+
+--------------------------------------------------
+
+COLOUR RATIO:
+
+Approximately:
+
+70% warm white / off-white
+20% sand
+8% maroon
+2% dark text/accent details
+
+The site should NOT look purple.
+
+Maroon is an accent, not the dominant background colour.
+
+==================================================
+3. TYPOGRAPHY
+==================================================
+
+Use a refined editorial typography system.
+
+Recommended heading font:
+
+"DM Serif Display"
+or
+"Playfair Display"
+
+Recommended body font:
+
+"Inter"
+or
+"Manrope"
+
+Headings should feel architectural and elegant.
+
+Body text should remain extremely readable and modern.
+
+Use:
+
+- Large elegant headings
+- Short paragraphs
+- Generous line height
+- Clear hierarchy
+
+Avoid oversized typography that consumes the entire screen.
+
+Avoid condensed fonts.
+
+Avoid ALL-CAPS paragraphs.
+
+Small uppercase labels are acceptable.
+
+==================================================
+4. GENERAL DESIGN LANGUAGE
+==================================================
+
+Use:
+
+- Large whitespace
+- Thin borders
+- Soft rounded corners
+- Very subtle shadows
+- Editorial layouts
+- Large photography
+- Asymmetrical but balanced sections
+- Minimal icons
+- Clean cards
+- Thin maroon accent lines
+- Sand background blocks
+
+Avoid:
+
+- Excessive gradients
+- Glassmorphism
+- Neon colours
+- Heavy shadows
+- Huge rounded cards
+- Excessive animations
+- Dark sections everywhere
+- Overuse of maroon
+- Generic stock-business illustrations
+- Excessive icons
+
+The website should feel expensive because of its spacing, typography and photography — not because of visual effects.
+
+==================================================
+5. HEADER
+==================================================
+
+Create a clean sticky desktop header.
+
+Background:
+Warm white / #FCFAF7
+
+Header structure:
+
+LEFT:
+McCoy's Doors & Windows logo
+
+CENTER / NAVIGATION:
+
+Home
+Products
+Custom Solutions
+Repairs
+Projects
+About
+
+RIGHT:
+
+"Request a Quote" button
+
+The button should use:
+
+Background: #582A47
+Text: white
+
+Header should be approximately 72–82px tall.
+
+Use a very subtle bottom border.
+
+On scroll:
+Keep the header clean and slightly translucent/warm white.
+
+Mobile:
+
+Logo on left
+Hamburger menu on right
+
+CTA should remain easily accessible.
+
+==================================================
+6. HERO SECTION
+==================================================
+
+The hero should NOT look like a generic full-screen dark hero.
+
+Use a light editorial composition.
+
+Layout:
+
+Left:
+Text
+
+Right:
+Large high-quality image of a beautiful custom door/window installation.
+
+Background:
+#FCFAF7
+
+Small eyebrow:
+
+ESTABLISHED 1995 · JOHANNESBURG
+
+Main heading:
+
+"Doors & Windows,
+Made for Your Space."
+
+Alternative supporting line:
+
+"Custom timber, aluminium and glass solutions crafted with experience, precision and care."
+
+Body:
+
+"From distinctive entrance doors to elegant folding systems and architectural glass, McCoy's creates products designed around the way you live and build."
+
+Buttons:
+
+PRIMARY:
+Request a Quote
+
+SECONDARY:
+Explore Our Products
+
+Below buttons:
+
+"Timber · Aluminium · Glass"
+
+The hero image should have a subtle sand-coloured frame or offset block behind it.
+
+Do NOT add a purple/maroon overlay over the image.
+
+Do NOT use excessive text.
+
+==================================================
+7. TRUST STRIP
+==================================================
+
+Immediately below hero.
+
+Create a very minimal horizontal trust strip.
+
+Items:
+
+30+
+Years of Experience
+
+1995
+Established
+
+Custom
+Made to Specification
+
+Timber · Aluminium · Glass
+
+Use thin vertical separators.
+
+Keep this section compact.
+
+Background:
+Sand #E8DCCB
+
+==================================================
+8. INTRODUCTION SECTION
+==================================================
+
+Create an elegant two-column section.
+
+LEFT:
+
+Small label:
+
+THE McCOY'S DIFFERENCE
+
+Heading:
+
+"Craftsmanship with a sense of place."
+
+RIGHT:
+
+Short company introduction:
+
+"Established in 1995, McCoy's Doors & Windows manufactures exclusive standard and custom-made products in timber, aluminium and glass."
+
+"From residential homes to commercial projects, our focus is on quality workmanship, thoughtful design and solutions made to suit each individual space."
+
+Add a small maroon line above the heading.
+
+Include:
+
+Learn More About McCoy's →
+
+==================================================
+9. PRODUCT COLLECTION
+==================================================
+
+Section title:
+
+"Our Product Collection"
+
+Subtitle:
+
+"From timeless timber craftsmanship to contemporary aluminium and glass systems."
+
+Create a clean image-based grid.
+
+IMPORTANT:
+The product images should be the primary visual element.
+
+Cards:
+
+01
+Timber Doors
+
+02
+Aluminium Doors
+
+03
+Windows
+
+04
+Frameless Doors
+
+05
+Garage Doors
+
+06
+Glass Solutions
+
+Each card:
+
+Large image
+Small category number
+Product name
+One-line description
+Arrow icon
+
+Cards should NOT have huge text overlays.
+
+Use image + white/sand information areas.
+
+Hover effect:
+
+Very subtle image zoom
+Arrow moves slightly
+Maroon accent appears
+
+No dramatic animations.
+
+==================================================
+10. FEATURED PRODUCT SECTION
+==================================================
+
+Create a premium editorial section featuring one large image.
+
+Left:
+Large image of a custom-made front/pivot/timber door.
+
+Right:
+
+CUSTOM-MADE DOORS
+
+"Designed around your entrance."
+
+Text:
+
+"Every entrance has its own character. Our custom doors are made to complement the architecture, proportions and personality of your property."
+
+Features:
+
+Custom dimensions
+Choice of materials
+Multiple glass options
+Wide range of hardware
+
+CTA:
+
+Explore Custom Doors →
+
+Use maroon for the CTA.
+
+==================================================
+11. TIMBER SECTION
+==================================================
+
+Background:
+
+Warm sand #E8DCCB
+
+Heading:
+
+"Natural timber.
+Distinctive character."
+
+Content:
+
+"From solid timber and Meranti doors to elegant folding, sliding and pivot systems, our timber range brings warmth and character to residential and commercial spaces."
+
+Show a large timber door image.
+
+Small product list:
+
+- Solid Timber Doors
+- Meranti Doors
+- Barn Doors
+- Pivot Doors
+- Folding Doors
+- Sliding Doors
+
+CTA:
+
+Explore Timber Doors →
+
+==================================================
+12. ALUMINIUM SECTION
+==================================================
+
+Return to warm white background.
+
+Use an alternating layout.
+
+Image on LEFT.
+
+Text on RIGHT.
+
+Label:
+
+ALUMINIUM
+
+Heading:
+
+"Contemporary lines.
+Built to perform."
+
+Content:
+
+"Our aluminium systems combine clean modern aesthetics with practical performance, making them suitable for contemporary residential and commercial applications."
+
+Products:
+
+- Aluminium Doors
+- Aluminium Windows
+- Aluminium Pivot Doors
+- Aluminium Folding Doors
+- Aluminium Garage Doors
+- Aluminium Louvres
+
+CTA:
+
+Explore Aluminium →
+
+==================================================
+13. FRAMELESS & GLASS SECTION
+==================================================
+
+Create a visually sophisticated but minimal section.
+
+Use a large architectural image.
+
+Small maroon label:
+
+ARCHITECTURAL GLASS
+
+Heading:
+
+"Bring more light into the space."
+
+Text:
+
+"Our frameless and glass solutions create clean transitions between interior and exterior spaces while allowing natural light to become part of the architecture."
+
+Highlight:
+
+Frameless Folding Doors
+Frameless Entrance Units
+Sliding Systems
+Glass Balustrading
+Double Glazing
+Low-E Glass
+Laminated Safety Glass
+
+CTA:
+
+Explore Glass Solutions →
+
+==================================================
+14. CUSTOM SOLUTIONS
+==================================================
+
+Create an editorial section with a large image and text.
+
+Heading:
+
+"Made around your requirements."
+
+Content:
+
+"Not every opening is standard. McCoy's specialises in custom-made doors and windows designed around your dimensions, materials, finishes and functional requirements."
+
+Use a simple 3-step visual:
+
+01
+Discuss
+
+02
+Design
+
+03
+Craft
+
+04
+Install
+
+CTA:
+
+Discuss Your Project →
+
+==================================================
+15. REPAIR SERVICE
+==================================================
+
+Do NOT make repairs feel like an unrelated service.
+
+Create a compact sand-coloured section.
+
+Heading:
+
+"Already have a McCoy's door or window that needs attention?"
+
+Text:
+
+"We also repair existing doors and windows, helping restore functionality, appearance and performance."
+
+CTA:
+
+Enquire About Repairs →
+
+Secondary:
+Call +27 72 221 4567
+
+==================================================
+16. PROJECT GALLERY
+==================================================
+
+Heading:
+
+"Selected Work"
+
+Subtitle:
+
+"A look at some of the doors, windows and architectural solutions we've created."
+
+Create a masonry-style gallery.
+
+Categories:
+
+All
+Timber
+Aluminium
+Glass
+Doors
+Windows
+
+Use real project images where available.
+
+Image cards should be large and visually dominant.
+
+Do NOT put excessive text on images.
+
+On hover:
+Show small maroon category label.
+
+==================================================
+17. WHY MCCOY'S
+==================================================
+
+Heading:
+
+"Why McCoy's"
+
+Create four minimal blocks.
+
+01
+30+ Years
+
+"Established in 1995, with decades of experience."
+
+02
+Custom Manufacturing
+
+"Solutions made to your requirements."
+
+03
+Quality Craftsmanship
+
+"Attention to detail from manufacture to installation."
+
+04
+Complete Solutions
+
+"Timber, aluminium, glass, hardware and repairs."
+
+Use simple line icons.
+
+Avoid colourful icon illustrations.
+
+==================================================
+18. CUSTOMER REVIEWS
+==================================================
+
+Background:
+
+#F5F0E8
+
+Heading:
+
+"Trusted by Our Customers"
+
+Create elegant testimonial cards.
+
+Use the provided genuine reviews.
+
+Example:
+
+"The service I have received and continue to receive from Cindy is exceptional. Always willing to go the extra mile."
+
+— Sanele Zondo
+
+Another:
+
+"Fantastic service! McCoy's personnel helped us from the beginning to the end... Our doors are of the best quality workmanship."
+
+— Neoton & Peut
+
+Another:
+
+"Cindy has been very helpful to our company, always willing to assist and give great advice."
+
+— Kristen Vice
+
+Show:
+
+★★★★★
+
+Keep review cards simple.
+
+Do not create fake reviews.
+
+==================================================
+19. ABOUT SECTION
+==================================================
+
+Create a split layout.
+
+Image:
+Craftsmanship / workshop / installation / door detail.
+
+Text:
+
+"More than three decades of craftsmanship."
+
+"Established in 1995, McCoy's Doors & Windows has built its reputation through quality products, personal service and attention to detail."
+
+"Today, we continue to manufacture custom timber, aluminium and glass solutions for clients who value quality and individuality."
+
+CTA:
+
+About McCoy's →
+
+==================================================
+20. SERVICE AREA
+==================================================
+
+Create a small local SEO section.
+
+Heading:
+
+"Proudly Serving Johannesburg"
+
+Mention:
+
+Kya Sand
+Johannesburg
+and surrounding areas
+
+Do not create a huge map.
+
+Keep this section minimal.
+
+Include address:
+
+Jura Shopping Centre, Shop 12
+4753 Malibongwe Drive, Off Boundary Road
+Kya Sand, Johannesburg, 2169
+South Africa
+
+==================================================
+21. FINAL CTA
+==================================================
+
+Create a strong but minimalist CTA.
+
+Background:
+
+#582A47
+
+IMPORTANT:
+This should be the ONE major maroon background section on the homepage.
+
+Text colour:
+White
+
+Heading:
+
+"Let's create something made for your space."
+
+Supporting text:
+
+"Tell us what you're looking for and our team will help you find the right solution."
+
+Buttons:
+
+Request a Quote
+WhatsApp Us
+
+Keep this section spacious.
+
+No gradients.
+
+No excessive decorative elements.
+
+==================================================
+22. FOOTER
+==================================================
+
+Light warm-white footer.
+
+Logo.
+
+Short description:
+
+"Custom timber, aluminium and glass doors and windows, crafted in Johannesburg since 1995."
+
+Columns:
+
+PRODUCTS
+
+Timber Doors
+Aluminium Doors
+Windows
+Frameless Doors
+Garage Doors
+Glass Solutions
+
+COMPANY
+
+About
+Projects
+Custom Solutions
+Repairs
+Contact
+
+CONTACT
+
++27 72 221 4567
+
+Jura Shopping Centre, Shop 12
+4753 Malibongwe Drive
+Kya Sand, Johannesburg
+2169, South Africa
+
+Bottom:
+
+© 2026 McCoy's Doors & Windows (Pty) Ltd
+
+Privacy Policy
+Terms & Conditions
+
+==================================================
+23. PRODUCT PAGES
+==================================================
+
+Create separate pages for SEO.
+
+Required pages:
+
+/timber-doors
+/aluminium-doors
+/windows
+/frameless-doors
+/garage-doors
+/glass-solutions
+/custom-doors
+/repairs
+
+Each product page should contain:
+
+Hero
+Introduction
+Product types
+Benefits
+Materials/options
+Glass options where relevant
+Image gallery
+Customisation information
+FAQs
+Quote CTA
+
+==================================================
+24. CONTACT / QUOTE PAGE
+==================================================
+
+Create a dedicated quote page.
+
+Heading:
+
+"Tell Us About Your Project"
+
+Form fields:
+
+Name
+Phone
+Email
+Project Type
+Material
+Service Required
+Message
+
+Project Type options:
+
+Residential
+Commercial
+New Build
+Renovation
+Repair
+
+Material:
+
+Timber
+Aluminium
+Glass
+Not Sure
+
+Service:
+
+New Door
+New Window
+Custom Solution
+Repair
+Other
+
+CTA:
+
+Request a Quote
+
+Also display:
+
++27 72 221 4567
+
+Johannesburg, South Africa
+
+==================================================
+25. MOBILE DESIGN
+==================================================
+
+The website must be designed mobile-first.
+
+On mobile:
+
+- Large but controlled typography
+- No horizontal scrolling
+- Images should remain high quality
+- Cards stack vertically
+- Navigation becomes hamburger
+- CTA remains highly visible
+
+Add a fixed mobile bottom bar:
+
+Call
+WhatsApp
+Get Quote
+
+The mobile website should feel as polished as desktop.
+
+==================================================
+26. ANIMATION
+==================================================
+
+Use subtle animation only.
+
+Allowed:
+
+- Fade-up on scroll
+- Gentle image scale on hover
+- Button hover transition
+- Navigation transition
+- Small arrow movement
+
+Animation duration:
+approximately 200–500ms.
+
+Avoid:
+
+- Parallax everywhere
+- Spinning elements
+- Excessive text animation
+- Large page transitions
+- Bouncing elements
+
+The website should feel calm and premium.
+
+==================================================
+27. IMAGE DIRECTION
+==================================================
+
+Photography is extremely important.
+
+Prioritise:
+
+- Architectural door photography
+- Close-up timber grain
+- Premium entrance doors
+- Aluminium sliding systems
+- Modern Johannesburg homes
+- Indoor/outdoor living spaces
+- Frameless glass doors
+- Custom pivot doors
+- Detailed hardware
+- Professional installation
+- Workshop craftsmanship
+
+Images should feel realistic and architectural.
+
+Avoid:
+
+- Generic smiling business people
+- Generic construction workers
+- Cheap stock photography
+- Overly staged corporate images
+- Images with text embedded into them
+
+Use the client's actual product/project photographs wherever available.
+
+==================================================
+28. SEO STRUCTURE
+==================================================
+
+Implement proper semantic HTML.
+
+Homepage SEO focus:
+
+"Custom Doors and Windows Johannesburg"
+
+Secondary topics:
+
+"Timber Doors Johannesburg"
+"Aluminium Doors Johannesburg"
+"Custom Made Doors Johannesburg"
+"Frameless Doors Johannesburg"
+"Door and Window Repairs Johannesburg"
+
+Include:
+
+- Proper H1
+- Logical H2/H3 hierarchy
+- LocalBusiness schema
+- Organization schema
+- Product/service schema where appropriate
+- FAQ schema where appropriate
+- Optimised image alt text
+- Internal linking
+- Clean URLs
+- Metadata
+- Open Graph metadata
+
+Do not keyword stuff.
+
+==================================================
+29. CONVERSION STRATEGY
+==================================================
+
+Primary conversion:
+
+REQUEST A QUOTE
+
+Secondary:
+
+CALL
+WHATSAPP
+
+Use CTA buttons throughout the site, but do not make every section look like a sales landing page.
+
+The overall experience should feel like a premium architectural brand.
+
+==================================================
+30. FINAL DESIGN RULE
+==================================================
+
+The most important instruction:
+
+DO NOT make the website visually complicated.
+
+The client described their colours as:
+
+"SAND AND MAROON"
+
+Use:
+
+#582A47
+
+as the primary maroon.
+
+Pair it with warm sand, cream and off-white.
+
+The final result should feel:
+
+MINIMAL
+WARM
+ARCHITECTURAL
+TIMELESS
+PREMIUM
+SOUTH AFRICAN
+CRAFTSMANSHIP-FOCUSED
+
+The website should look like a high-end architectural manufacturer's website with a restrained colour palette.
+
+It should NOT look like a generic door company template.
+
+It should NOT be dark.
+
+It should NOT use purple as a dominant colour.
+
+It should NOT use excessive maroon.
+
+It should NOT use excessive rounded cards.
+
+It should NOT be text-heavy.
+
+Let the photography, whitespace, typography and subtle maroon accents create the premium feel.

@@ -1,0 +1,167 @@
+@import "tailwindcss";
+
+/* McCoy's Doors & Windows - Light Architectural Blueprint Theme */
+:root {
+  --font-serif: 'DM Serif Display', 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Color Palette - Sand & Maroon System */
+  --bg-main: #FCFAF7;
+  --bg-sand: #E8DCCB;
+  --bg-sand-light: #F5F0E8;
+  --bg-card: #FFFFFF;
+
+  --maroon: #582A47;
+  --maroon-hover: #451F37;
+  --maroon-light: rgba(88, 42, 71, 0.08);
+
+  --text-main: #292526;
+  --text-muted: #6F6865;
+  --border-light: #E6DED5;
+  --border-maroon: rgba(88, 42, 71, 0.25);
+
+  --shadow-subtle: 0 4px 20px rgba(41, 37, 38, 0.04);
+  --shadow-card: 0 8px 30px rgba(41, 37, 38, 0.06);
+
+  --radius-card: 12px;
+  --radius-btn: 6px;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  line-height: 1.7;
+  letter-spacing: -0.01em;
+  max-width: 100vw;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  padding-bottom: 64px;
+}
+
+@media (min-width: 1024px) {
+  body {
+    padding-bottom: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+button, a {
+  touch-action: manipulation;
+}
+
+h1, h2, h3, h4, .font-serif {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  color: var(--text-main);
+}
+
+/* Custom Utilities */
+.bg-sand {
+  background-color: var(--bg-sand);
+}
+
+.bg-sand-light {
+  background-color: var(--bg-sand-light);
+}
+
+.bg-maroon {
+  background-color: var(--maroon);
+}
+
+.text-maroon {
+  color: var(--maroon);
+}
+
+.border-sand {
+  border-color: var(--border-light);
+}
+
+.border-maroon-accent {
+  border-color: var(--border-maroon);
+}
+
+/* Primary Maroon Button */
+.btn-maroon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.8rem 1.6rem;
+  background-color: var(--maroon);
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 0.9rem;
+  border-radius: var(--radius-btn);
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 10px rgba(88, 42, 71, 0.15);
+}
+
+.btn-maroon:hover {
+  background-color: var(--maroon-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(88, 42, 71, 0.25);
+}
+
+.btn-maroon:active {
+  transform: translateY(0);
+}
+
+/* Secondary Sand/Border Button */
+.btn-secondary-architectural {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.8rem 1.6rem;
+  background-color: #FFFFFF;
+  color: var(--text-main);
+  font-weight: 600;
+  font-size: 0.9rem;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-btn);
+  transition: all 0.25s ease;
+}
+
+.btn-secondary-architectural:hover {
+  background-color: var(--bg-sand-light);
+  border-color: var(--maroon);
+  color: var(--maroon);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FCFAF7;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8CCC0;
+  border-radius: 4px;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
